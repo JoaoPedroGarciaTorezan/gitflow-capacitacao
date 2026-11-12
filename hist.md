@@ -1,6 +1,8 @@
 ## Capitulo 1
 
 Essa é a introdução da nossa história
+Autores:
+- João Pedro
 
 Desenvolvendo o desenvolvimento. 
 Agora arrumamos o bug, esta tudo certo.
