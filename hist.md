@@ -4,4 +4,4 @@ Essa é a introdução da nossa história
 
 Desenvolvendo o desenvolvimento. 
 
-Conclusão.
+Conclusão ajustada pro max.
